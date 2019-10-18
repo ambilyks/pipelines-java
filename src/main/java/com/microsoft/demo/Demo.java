@@ -8,5 +8,6 @@ public class Demo {
         }
 
         System.out.println("I am not at all covered and this is so bad");
+	System.out.println("please cover");
     }
 }
